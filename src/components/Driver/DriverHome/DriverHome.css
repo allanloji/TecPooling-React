@@ -1,0 +1,43 @@
+.homeTitle {
+  font-weight: lighter;
+  color: #a1a1a2;
+}
+
+.driverHomeContainer {
+  margin: auto;
+  width: 90%;
+}
+
+.driverSectionsContainer {
+  margin-top: 70px;
+}
+
+.container {
+  margin-left: 150px;
+}
+
+.buttonsDriverHome {
+  position: relative;
+ /* float: right; */
+  float: right;
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: 5%;
+  margin-top: -60px;
+}
+
+.driverHomeNoCars{
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+.driverHomeNoCarsTitle{
+  background-color: #E33F44;
+  width: 90%;
+  margin: auto;
+  top: -16px;
+  color: #FFF;
+  font-size: 1.5em;
+  font-weight: lighter;
+}

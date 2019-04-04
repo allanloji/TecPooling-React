@@ -1,0 +1,17 @@
+.homeTitle {
+  font-weight: lighter;
+  color: #a1a1a2;
+}
+
+.driverScheduleContainer {
+  margin: auto;
+  width: 90%;
+}
+
+.driverScheduleSectionsContainer {
+  margin-top: 70px;
+}
+
+.container {
+  margin-left: 150px;
+}

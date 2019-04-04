@@ -1,0 +1,38 @@
+.driverBookingsCard {
+  width: 45%;
+  position: relative;
+  display: inline-block;
+  float: right;
+  max-height: 600px;
+  margin-bottom: 20px;
+  /*overflow-y: auto;*/
+}
+
+.emptyBookings {
+  font-weight: lighter;
+  color: #a1a1a2;
+  text-align: center;
+  font-size: 2em;
+  padding-top: 10%;
+}
+
+.driverBookingsTitle {
+  background-color: #46a651;
+  width: 80%;
+  margin: auto;
+  top: -10px;
+  color: #fff;
+  font-size: 1.5em;
+  font-weight: lighter;
+}
+
+.dayText {
+  font-size: 30pt;
+  font-weight: 500;
+  text-align: center;
+}
+.destinationText {
+  font-size: 20pt;
+  font-weight: 100;
+  text-align: center;
+}

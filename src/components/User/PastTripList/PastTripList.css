@@ -1,0 +1,10 @@
+.listPastTripList{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.divPastTripList{
+    max-height: 380px;
+    overflow: scroll;
+}

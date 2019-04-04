@@ -1,0 +1,31 @@
+.schedulesCard {
+  width: 45%;
+  margin-left: 4%;
+  position: relative;
+  display: inline-block;
+  height: 500px;
+  /*overflow-y: auto;*/
+}
+
+.schedulesTitle {
+  background-color: #fc8064;
+  width: 80%;
+  margin: auto;
+  top: -10px;
+  color: #fff;
+  font-size: 1.5em;
+  font-weight: lighter;
+}
+
+.emptySchedules {
+  font-weight: lighter;
+  color: #a1a1a2;
+  text-align: center;
+  font-size: 2em;
+  padding-top: 10%;
+}
+
+.driverScheduleListContainer{
+  overflow-y: auto;
+  max-height: 380px;
+}

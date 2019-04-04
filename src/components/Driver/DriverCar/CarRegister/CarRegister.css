@@ -1,0 +1,24 @@
+.carRegisterCard {
+  width: 45%;
+  margin-left: 4%;
+  position: relative;
+  display: inline-block;
+  max-height: 600px;
+  float: left;
+  /*overflow-y: auto;*/
+}
+
+.carRegisterCardHeader {
+  background-color: #66c2ff;
+  width: 80%;
+  margin: auto;
+  top: -15px;
+  color: #fff;
+  font-size: 1.5em;
+  font-weight: lighter;
+}
+
+.carRegisterFields{
+  width: 60%;
+  margin: auto;
+}

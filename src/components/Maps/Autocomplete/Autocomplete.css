@@ -1,0 +1,10 @@
+.dropdownAutocomplete{
+    position: absolute;
+    z-index: 1;
+}
+
+.inputSearchLocation{
+    height: 30px;
+    width: 300px;
+    font-size: 15px;
+}

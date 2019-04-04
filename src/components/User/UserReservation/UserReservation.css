@@ -1,0 +1,26 @@
+.userReservationCard{
+    width: 45%;
+    position: relative;
+    top: 50%;
+    display: inline-block;
+    max-height: 600px;
+    margin-bottom: 20px;
+}
+
+.emptyReservations{
+    font-weight: lighter;
+    color: #A1A1A2;
+    text-align: center;
+    font-size: 2em;
+    padding-top: 10%;
+}
+
+.userReservationTitle{
+    background-color: #46A651;
+    width: 90%;
+    margin: auto;
+    top: -16px;
+    color: #FFF;
+    font-size: 1.5em;
+    font-weight: lighter;
+}

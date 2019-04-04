@@ -1,0 +1,14 @@
+.historyDetailTitle{
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 2em;
+}
+
+.historyDetailCarTitle{
+    margin: auto;
+    border-radius: 50%;
+    background-color: #E33F44;
+    width: 40px;
+    height: 40px;
+}

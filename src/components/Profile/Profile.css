@@ -1,0 +1,39 @@
+.profileCard {
+  width: 40%;
+  margin-left: 35%;
+  position: relative;
+  display: inline-block;
+  height: 500px;
+  margin-top: 10%;
+}
+
+.profileTitle {
+  background-color: #29adc7;
+  width: 30%;
+  color: #fff;
+  font-size: 1.5em;
+  font-weight: lighter;
+  text-align: center;
+  margin: auto;
+  top: -20px;
+}
+
+.profileCard p {
+  font-size: 18px;
+
+}
+
+.profileFieldsDialog{
+  margin: auto;
+  text-align: center;
+}
+
+.profileFields{
+  width: 80%;
+  margin: auto;
+}
+
+.profileDialog{
+  margin: auto;
+  text-align: center;
+}

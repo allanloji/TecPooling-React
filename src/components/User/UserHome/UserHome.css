@@ -1,0 +1,17 @@
+.homeTitle{
+    font-weight: lighter;
+    color: #A1A1A2;
+}
+
+.userHomeContainer{
+    margin: auto;
+    width: 90%;
+}
+
+.userSectionsContainer{
+    margin-top: 70px;
+}
+
+.container{
+    margin-left: 150px;
+}

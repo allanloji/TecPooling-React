@@ -1,0 +1,10 @@
+.listNearDriversList{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nearDriverListDiv{
+    overflow: scroll;
+    max-height: 500px;
+}

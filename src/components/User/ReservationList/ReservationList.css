@@ -1,0 +1,7 @@
+.listReservationList{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: scroll;
+    max-height: 200px;
+}
